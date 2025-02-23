@@ -1,8 +1,8 @@
-💼 Sistema de Gestão Financeira
+# 💼 Sistema de Gestão Financeira
 
 Bem-vindo ao Sistema de Gestão Financeira! Este projeto tem como objetivo criar e gerenciar contas bancárias, movimentar dinheiro, gerar relatórios financeiros e criar gráficos de acompanhamento.
 
-🌐 Tecnologias Utilizadas
+# 🌐 Tecnologias Utilizadas
 
 Python 3.13
 
@@ -31,7 +31,7 @@ Execute o sistema:
 
 python main.py
 
-🔧 Funcionalidades
+# 🔧 Funcionalidades
 
 Criar conta bancária com saldo inicial
 
@@ -45,7 +45,7 @@ Filtrar histórico por datas
 
 Gerar gráfico de contas ativas
 
-📚 Estrutura do Projeto
+# 📚 Estrutura do Projeto
 
 financas/
 │-- models.py    # Definição das tabelas do banco
@@ -54,7 +54,7 @@ financas/
 │-- main.py      # Ponto de entrada do programa
 │-- requirements.txt
 
-👨‍💻 Como Usar
+# 👨‍💻 Como Usar
 
 Ao iniciar o sistema, você verá o seguinte menu:
 
@@ -77,11 +77,11 @@ Digite o valor atual disponível na conta:
 1000
 Conta criada com sucesso!
 
-📊 Exemplo de Gráfico
+# 📊 Exemplo de Gráfico
 
 Ao selecionar a opção de gerar um gráfico, um gráfico de barras será exibido com os bancos e seus respectivos saldos.
 
-🚀 Melhorias Futuras
+# 🚀 Melhorias Futuras
 
 Implementação de interface gráfica
 
@@ -89,14 +89,12 @@ Integração com banco de dados SQL completo
 
 Autenticação de usuários
 
-🎬 GIF Representativo
 
 
-
-🛠️ Contribuição
+# 🛠️ Contribuição
 
 Se quiser contribuir, faça um fork do repositório e envie um pull request!
 
-👥 Autores
+# 👥 Autores
 Da uma olhada e da uma moral :
 https://www.linkedin.com/in/gabriel-de-oliveira-pontes-131288246/
